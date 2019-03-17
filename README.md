@@ -1,5 +1,6 @@
-#Front-end ToDo
+# Front-end ToDo
+
 A simple Web app ToDo.
 
-##Libraries
->JQuery, Bootstrap, icon font-awesome
+## Libraries
+> JQuery, Bootstrap, icon font-awesome
